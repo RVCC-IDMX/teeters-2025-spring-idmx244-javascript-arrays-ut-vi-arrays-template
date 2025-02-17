@@ -11,6 +11,7 @@
  *  - Arrays are zero-indexed, mutable, and iterable.
  *
  * @see https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array
+ * @see https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax
  */
 
 /**
